@@ -1,0 +1,32 @@
+.minimize-media-right{
+    border-left: 1px solid #21486b;
+    background-color: #3679b6;
+     padding: 24px 0px 24px 0px;
+  border-radius: 0px 4px 4px 0px;
+}
+ .minimize-media-left{  
+     padding-top: 24px;
+   padding-bottom: 24px;
+}
+.minimize-well{
+   padding-top: 0;
+   padding-bottom: 0;
+   padding-right: 0;
+   border-radius: 4px 4px 4px 4px;
+   }
+
+.mimimize-btn-close{
+    color: #ffffff;
+}
+
+.minimize-btn-main{
+    margin-bottom:4px;
+}
+
+ .mimimize-btn-close:hover{
+    color: #aaaaaa;   
+}
+
+.btn-react{
+ margin: 0 2px 4px 2px;
+}
